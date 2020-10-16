@@ -2,7 +2,7 @@
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1)
 
-Para visualizar el código y proceso de aprendizaje busca en los archivos del repositorio el que se llama 'Introducción Numpy.ipynb', haz doble click y eso te llevará al notebook para comenzar de cero con NumPy. Espero que te guste !
+Para visualizar el código haz doble click [aquí]() y eso te llevará al notebook para comenzar de cero con NumPy. Espero que te guste !
 
 ## ¿Qué es NumPy?
 
