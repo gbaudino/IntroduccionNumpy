@@ -38,6 +38,8 @@ Podrás encontrarme en
 
 [Linkedin](https://linkedin.com/in/geremiasbaudino)
 
+[Kaggle](https://www.kaggle.com/geremiasbaudino)
+
 [GitHub](https://github.com/GBaudino)
 
 ### Otros proyectos de mi autoría
