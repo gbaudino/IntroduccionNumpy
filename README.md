@@ -2,6 +2,8 @@
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1)
 
+Para visualizar el código y proceso de aprendizaje busca en los archivos del repositorio el que se llama 'Introducción Numpy.ipynb', haz doble click y eso te llevará al notebook para comenzar de cero con NumPy. Espero que te guste !
+
 ## ¿Qué es NumPy?
 
 Si llegaste hasta aquí seguramente sepas que es NumPy, caso contrario aclararemos que (según la wiki) NumPy es una biblioteca para el lenguaje de programación Python que da soporte para crear vectores y matrices grandes multidimensionales, junto con una gran colección de funciones matemáticas de alto nivel para operar con ellas.
