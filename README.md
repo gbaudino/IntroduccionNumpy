@@ -1,20 +1,31 @@
 # Introducción a NumPy
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1)
+Completado: No
 
-Para visualizar el código haz click [aquí](https://github.com/GBaudino/IntroduccionNumpy/blob/master/IntroduccionNumpy.ipynb) y eso te llevará al notebook para comenzar de cero con NumPy. Espero que te guste !
+# Introducción a NumPy
+
+[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1)
+
+Para visualizar el código haz click [aquí](https://github.com/GBaudino/IntroduccionNumpy/blob/master/IntroduccionNumpy.ipynb) y eso te llevará al notebook para comenzar de cero con NumPy. Espero que te guste!
 
 ## ¿Qué es NumPy?
 
 Si llegaste hasta aquí seguramente sepas que es NumPy, caso contrario aclararemos que (según la wiki) NumPy es una biblioteca para el lenguaje de programación Python que da soporte para crear vectores y matrices grandes multidimensionales, junto con una gran colección de funciones matemáticas de alto nivel para operar con ellas.
 
-## ¿Para qué me sirve NumPy?
+## Secciones del Notebook
 
-NumPy aborda el problema de la lentitud de las listas, en parte al proporcionar matrices multidimensionales, funciones y operadores que trabajan de manera eficiente en las matrices, lo que requiere reescribir algo de código, principalmente bucles internos, usando NumPy.
-
-El uso de NumPy en Python brinda una funcionalidad comparable a MATLAB ya que ambos se interpretan, y ambos permiten al usuario escribir programas rápidos siempre que la mayoría de las operaciones funcionen en vectores o matrices en lugar de escalares.
-
-NumPy a día de hoy es muy utilizado en el área científica, permitiendo el trabajo con datos numéricos en el potente lenguaje de programación Python, el cual está más vigente que nunca, NumPy a su vez, es la base de otras librerías como por ejemplo Pandas, o SciPy, las cuales se utilizan en el área del análisis de datos, machine learning y afines.
+1. Importación librería
+2. Iniciación : Dimensión y tipo de matriz
+3.  Acceso, cambio de elementos, filas, columnas...
+4. Iniciar Matrices Específicas
+5. Problema 1
+6. Copia de matrices
+7. Matemáticas con NumPy
+8. Álgebra lineal con NumPy
+9. Estadísticas con NumPy
+10. Reorganización de matrices
+11. Otras funciones y métodos avanzados
+12. Ejercicio 2
 
 ### Sitios Webs Útiles a Consultar
 
@@ -30,7 +41,7 @@ Algunos de estos sitios webs están en ingles, aún así, traduciéndolos te ser
 
 [Matemáticas con NumPy](https://numpy.org/doc/stable/reference/routines.math.html)
 
-[Algebra lineal con NumPy](https://numpy.org/doc/stable/reference/routines.linalg.html)
+[Álgebra lineal con NumPy](https://numpy.org/doc/stable/reference/routines.linalg.html)
 
 ### Autor - Geremías Baudino
 
@@ -46,4 +57,4 @@ Podrás encontrarme en
 
 [Las Matemáticas del Cubo de Rubik](https://www.notion.so/El-cubo-de-Rubik-y-su-matem-tica-891419faa9cd40a7a5e58bc6e24bcb03)
 
-[Metodos De Ordenamiento](https://github.com/GBaudino/MetodosDeOrdenamiento)
+[Métodos de Ordenamiento](https://github.com/GBaudino/MetodosDeOrdenamiento)
