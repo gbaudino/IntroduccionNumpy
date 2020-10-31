@@ -1,6 +1,3 @@
-# Introducción a NumPy
-
-Completado: No
 
 # Introducción a NumPy
 
