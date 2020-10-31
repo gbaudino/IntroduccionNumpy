@@ -4,7 +4,8 @@ Completado: No
 
 # Introducción a NumPy
 
-[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1)
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1)
 
 Para visualizar el código haz click [aquí](https://github.com/GBaudino/IntroduccionNumpy/blob/master/IntroduccionNumpy.ipynb) y eso te llevará al notebook para comenzar de cero con NumPy. Espero que te guste!
 
