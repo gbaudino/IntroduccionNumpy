@@ -4,7 +4,12 @@
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8oi_OTKHcm2Add4cVpXqJQHaEK%26pid%3DApi&f=1)
 
-Para visualizar el código haz click [aquí](https://github.com/GBaudino/IntroduccionNumpy/blob/master/IntroduccionNumpy.ipynb) y eso te llevará al notebook para comenzar de cero con NumPy. Espero que te guste!
+## ¿Cómo utilizarlo?
+Para poder correr el código sin problemas, al clonar el repo instala con un comando en la consola las dependencias: 
+
+**pip install -r requirements.txt**
+
+Luego de instalar las dependencias, podrás visualizar el código haciendo click [aquí](https://github.com/GBaudino/IntroduccionNumpy/blob/master/IntroduccionNumpy.ipynb), eso te llevará al notebook para comenzar de cero con NumPy. Espero que te guste!
 
 ## ¿Qué es NumPy?
 
@@ -52,6 +57,8 @@ Podrás encontrarme en
 [GitHub](https://github.com/GBaudino)
 
 ### Otros proyectos de mi autoría
+
+[Introducción a Pandas](https://github.com/GBaudino/IntroduccionPandas)
 
 [Las Matemáticas del Cubo de Rubik](https://www.notion.so/El-cubo-de-Rubik-y-su-matem-tica-891419faa9cd40a7a5e58bc6e24bcb03)
 
