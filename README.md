@@ -54,8 +54,6 @@ Podrás encontrarme en
 
 [Kaggle](https://www.kaggle.com/geremiasbaudino)
 
-[GitHub](https://github.com/GBaudino)
-
 ### Otros proyectos de mi autoría
 
 [Introducción a Pandas](https://github.com/GBaudino/IntroduccionPandas)
