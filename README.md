@@ -46,18 +46,6 @@ Algunos de estos sitios webs están en ingles, aún así, traduciéndolos te ser
 
 [Álgebra lineal con NumPy](https://numpy.org/doc/stable/reference/routines.linalg.html)
 
-### Autor - Geremías Baudino
-
 Podrás encontrarme en
 
 [Linkedin](https://linkedin.com/in/geremiasbaudino)
-
-[Kaggle](https://www.kaggle.com/geremiasbaudino)
-
-### Otros proyectos de mi autoría
-
-[Introducción a Pandas](https://github.com/GBaudino/IntroduccionPandas)
-
-[Las Matemáticas del Cubo de Rubik](https://www.notion.so/El-cubo-de-Rubik-y-su-matem-tica-891419faa9cd40a7a5e58bc6e24bcb03)
-
-[Métodos de Ordenamiento](https://github.com/GBaudino/MetodosDeOrdenamiento)
